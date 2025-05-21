@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FlavioAlexanderNavar\\Music\\FormApiBackend (2)\\FormApiBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42423A4-1113-454D-AD8D-4A0BCB113148}|FormApiBackend.csproj|c:\\users\\flavioalexandernavar\\music\\formapibackend (2)\\formapibackend\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42423A4-1113-454D-AD8D-4A0BCB113148}|FormApiBackend.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\FlavioAlexanderNavar\\Music\\FormApiBackend (2)\\FormApiBackend\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\FlavioAlexanderNavar\\Music\\FormApiBackend (2)\\FormApiBackend\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:35:38.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
