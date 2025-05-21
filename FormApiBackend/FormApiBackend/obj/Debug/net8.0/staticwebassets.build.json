@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6mKQ1W3G9HZALJN7BgN87lLREYIu23jPsFLSAEqjcG4=",
+  "Source": "FormApiBackend",
+  "BasePath": "_content/FormApiBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
